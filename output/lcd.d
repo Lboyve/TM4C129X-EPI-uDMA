@@ -1,0 +1,11 @@
+..\output\lcd.o: ..\driverlib\lcd.c
+..\output\lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\lcd.o: ..\inc/hw_memmap.h
+..\output\lcd.o: ..\inc/hw_types.h
+..\output\lcd.o: ..\inc/hw_ints.h
+..\output\lcd.o: ..\inc/hw_lcd.h
+..\output\lcd.o: ..\driverlib/interrupt.h
+..\output\lcd.o: ..\driverlib/sysctl.h
+..\output\lcd.o: ..\driverlib/lcd.h
+..\output\lcd.o: ..\driverlib/debug.h

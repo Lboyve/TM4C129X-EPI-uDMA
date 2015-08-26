@@ -1,0 +1,11 @@
+..\output\epi.o: ..\driverlib\epi.c
+..\output\epi.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\epi.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\epi.o: ..\inc/hw_epi.h
+..\output\epi.o: ..\inc/hw_ints.h
+..\output\epi.o: ..\inc/hw_memmap.h
+..\output\epi.o: ..\inc/hw_sysctl.h
+..\output\epi.o: ..\inc/hw_types.h
+..\output\epi.o: ..\driverlib/debug.h
+..\output\epi.o: ..\driverlib/epi.h
+..\output\epi.o: ..\driverlib/interrupt.h

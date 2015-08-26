@@ -1,0 +1,12 @@
+..\output\hibernate.o: ..\driverlib\hibernate.c
+..\output\hibernate.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\hibernate.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\hibernate.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+..\output\hibernate.o: ..\inc/hw_hibernate.h
+..\output\hibernate.o: ..\inc/hw_ints.h
+..\output\hibernate.o: ..\inc/hw_sysctl.h
+..\output\hibernate.o: ..\inc/hw_types.h
+..\output\hibernate.o: ..\driverlib/debug.h
+..\output\hibernate.o: ..\driverlib/hibernate.h
+..\output\hibernate.o: ..\driverlib/interrupt.h
+..\output\hibernate.o: ..\driverlib/sysctl.h

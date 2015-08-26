@@ -1,0 +1,9 @@
+..\output\systick.o: ..\driverlib\systick.c
+..\output\systick.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\systick.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\systick.o: ..\inc/hw_ints.h
+..\output\systick.o: ..\inc/hw_nvic.h
+..\output\systick.o: ..\inc/hw_types.h
+..\output\systick.o: ..\driverlib/debug.h
+..\output\systick.o: ..\driverlib/interrupt.h
+..\output\systick.o: ..\driverlib/systick.h

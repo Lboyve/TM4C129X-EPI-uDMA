@@ -1,0 +1,12 @@
+..\output\emac.o: ..\driverlib\emac.c
+..\output\emac.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\emac.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\emac.o: ..\inc/hw_ints.h
+..\output\emac.o: ..\inc/hw_memmap.h
+..\output\emac.o: ..\inc/hw_types.h
+..\output\emac.o: ..\inc/hw_emac.h
+..\output\emac.o: ..\driverlib/debug.h
+..\output\emac.o: ..\driverlib/emac.h
+..\output\emac.o: ..\driverlib/sysctl.h
+..\output\emac.o: ..\driverlib/interrupt.h
+..\output\emac.o: ..\driverlib/sw_crc.h

@@ -1,0 +1,13 @@
+..\output\usb.o: ..\driverlib\usb.c
+..\output\usb.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\usb.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\usb.o: ..\inc/hw_ints.h
+..\output\usb.o: ..\inc/hw_memmap.h
+..\output\usb.o: ..\inc/hw_types.h
+..\output\usb.o: ..\inc/hw_sysctl.h
+..\output\usb.o: ..\inc/hw_usb.h
+..\output\usb.o: ..\driverlib/debug.h
+..\output\usb.o: ..\driverlib/interrupt.h
+..\output\usb.o: ..\driverlib/sysctl.h
+..\output\usb.o: ..\driverlib/udma.h
+..\output\usb.o: ..\driverlib/usb.h

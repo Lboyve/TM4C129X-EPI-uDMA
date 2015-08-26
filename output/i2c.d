@@ -1,0 +1,11 @@
+..\output\i2c.o: ..\driverlib\i2c.c
+..\output\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\i2c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\i2c.o: ..\inc/hw_i2c.h
+..\output\i2c.o: ..\inc/hw_ints.h
+..\output\i2c.o: ..\inc/hw_memmap.h
+..\output\i2c.o: ..\inc/hw_sysctl.h
+..\output\i2c.o: ..\inc/hw_types.h
+..\output\i2c.o: ..\driverlib/debug.h
+..\output\i2c.o: ..\driverlib/i2c.h
+..\output\i2c.o: ..\driverlib/interrupt.h

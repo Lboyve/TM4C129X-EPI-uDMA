@@ -1,0 +1,10 @@
+..\output\des.o: ..\driverlib\des.c
+..\output\des.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\des.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\des.o: ..\inc/hw_des.h
+..\output\des.o: ..\inc/hw_ints.h
+..\output\des.o: ..\inc/hw_memmap.h
+..\output\des.o: ..\inc/hw_types.h
+..\output\des.o: ..\driverlib/debug.h
+..\output\des.o: ..\driverlib/des.h
+..\output\des.o: ..\driverlib/interrupt.h

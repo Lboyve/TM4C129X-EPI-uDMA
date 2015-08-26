@@ -1,0 +1,9 @@
+..\output\sysexc.o: ..\driverlib\sysexc.c
+..\output\sysexc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\sysexc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\sysexc.o: ..\inc/hw_ints.h
+..\output\sysexc.o: ..\inc/hw_sysctl.h
+..\output\sysexc.o: ..\inc/hw_sysexc.h
+..\output\sysexc.o: ..\inc/hw_types.h
+..\output\sysexc.o: ..\driverlib/debug.h
+..\output\sysexc.o: ..\driverlib/interrupt.h

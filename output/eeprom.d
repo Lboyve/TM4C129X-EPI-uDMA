@@ -1,0 +1,13 @@
+..\output\eeprom.o: ..\driverlib\eeprom.c
+..\output\eeprom.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\eeprom.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\eeprom.o: ..\inc/hw_eeprom.h
+..\output\eeprom.o: ..\inc/hw_flash.h
+..\output\eeprom.o: ..\inc/hw_ints.h
+..\output\eeprom.o: ..\inc/hw_sysctl.h
+..\output\eeprom.o: ..\inc/hw_types.h
+..\output\eeprom.o: ..\driverlib/debug.h
+..\output\eeprom.o: ..\driverlib/flash.h
+..\output\eeprom.o: ..\driverlib/interrupt.h
+..\output\eeprom.o: ..\driverlib/sysctl.h
+..\output\eeprom.o: ..\driverlib/eeprom.h

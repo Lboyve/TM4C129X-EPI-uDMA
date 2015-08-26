@@ -1,0 +1,9 @@
+..\output\udma.o: ..\driverlib\udma.c
+..\output\udma.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+..\output\udma.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\output\udma.o: ..\inc/hw_sysctl.h
+..\output\udma.o: ..\inc/hw_types.h
+..\output\udma.o: ..\inc/hw_udma.h
+..\output\udma.o: ..\driverlib/debug.h
+..\output\udma.o: ..\driverlib/interrupt.h
+..\output\udma.o: ..\driverlib/udma.h

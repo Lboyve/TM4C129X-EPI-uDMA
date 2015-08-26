@@ -1,0 +1,2 @@
+Dependencies for Project 'M4_PLUS_SXT', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C129.s)(0x51C7AFB4)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C129--list .\startup_tm4c129.lst --xref -o .\startup_tm4c129.o --depend .\startup_tm4c129.d)
